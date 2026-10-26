@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Gallery</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="cache_cleared">Image cache cleared</string>
+    <string name="image_list_error">Couldn\'t load the image list</string>
+    <string name="retry">Retry</string>
+    <string name="image_id">ID %1$d</string>
+</resources>

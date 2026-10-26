@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- View tag holding the ViewRequestManager bound to a target view. -->
+    <item name="imageloader_request_manager" type="id" />
+</resources>

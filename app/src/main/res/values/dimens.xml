@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_padding">8dp</dimen>
+    <!-- Leaves room for the floating button below the last item. -->
+    <dimen name="list_padding_bottom">96dp</dimen>
+    <dimen name="item_margin">8dp</dimen>
+</resources>

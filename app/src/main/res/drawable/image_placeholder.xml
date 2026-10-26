@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 16:9 so that centerCrop keeps the icon small and centered. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="90dp"
+    android:viewportWidth="160"
+    android:viewportHeight="90">
+    <path
+        android:fillColor="?attr/colorSurfaceContainerHighest"
+        android:pathData="M0,0h160v90h-160z" />
+    <group
+        android:scaleX="1.25"
+        android:scaleY="1.25"
+        android:translateX="65"
+        android:translateY="30">
+        <path
+            android:fillAlpha="0.5"
+            android:fillColor="?attr/colorOnSurfaceVariant"
+            android:pathData="M21,19V5c0,-1.1 -0.9,-2 -2,-2H5c-1.1,0 -2,0.9 -2,2v14c0,1.1 0.9,2 2,2h14c1.1,0 2,-0.9 2,-2zM8.5,13.5l2.5,3.01L14.5,12l4.5,6H5l3.5,-4.5z" />
+    </group>
+</vector>
